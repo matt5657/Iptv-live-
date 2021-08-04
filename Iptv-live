@@ -1,68 +1,67 @@
 #EXTM3U
 #EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Al Jazeera English(480p)
 http://ott-cdn.ucom.am/s23/index.m3u8
-#EXTINF:0,Al Jazeera English (1080p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Al Jazeera English (1080p)
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
-#EXTINF:0,Australia Channel (720p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Australia Channel (720p)
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:0,BBC World News (576p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",BBC World News (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:0,CNN International (720p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",CNN International (720p)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,DW English (1080p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0,DW English (720p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",DW English (720p)
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-#EXTINF:0,Eurodance 90 HD
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Eurodance 90 HD
 https://eurodance.catcast.tv/content/36987/index.m3u8
-#EXTINF:0,Euronews in English (720p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Euronews in English (720p)
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,France 24 English (1080p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",France 24 English (1080p)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:0,France 24 English (1080p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",France 24 English (1080p)
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:0,France 24 English (576p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",France 24 English (576p)
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:0,Gravity Fouls
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Gravity Fouls
 https://autopilot.catcast.tv/content/38105/index.m3u8
-#EXTINF:0,Kinder TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Kinder TV
 http://autopilot.catcast.tv/content/38144/index.m3u8
-#EXTINF:0,Olympics Channel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Olympics Channel
 https://iptv-all.lanesh4d0w.codes/special/olympics
-#EXTINF:0,Peace TV English
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Peace TV English
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:0,Portal FoxMix TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Portal FoxMix TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-#EXTINF:0,Red Bull TV (1080p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Red Bull TV (1080p)
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:0,RT (720p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",RT (720p)
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
-#EXTINF:0,RT (720p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",RT (720p)
 http://rt-news.secure.footprint.net:80/1103.m3u8
-#EXTINF:0,RT (360p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",RT (360p)
 https://rt-news.secure.footprint.net/1103_800Kb.m3u8
-#EXTINF:0,RT (1080p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",RT (1080p)
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
-#EXTINF:0,Shalom TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Shalom TV
 https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
-#EXTINF:0,Street Music 4U
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Street Music 4U
 https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
-#EXTINF:0,Tamil Vision TV (1080p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Tamil Vision TV (1080p)
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:0,Tamil Vision TV (720p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Tamil Vision TV (720p)
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:0,The Pet Collective (720p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",The Pet Collective (720p)
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,TRT World (1080p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",TRT World (1080p)
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:0,TRT World (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",TRT World (1080p)
 https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_sd.smil/playlist.m3u8
-#EXTINF:0,TV BRICS English
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",TV BRICS English
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:0,UN Web TV (540p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",UN Web TV (540p)
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
-#EXTINF:0,World Fashion Channel (1080p)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTM3U
