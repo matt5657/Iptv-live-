@@ -1,7 +1,7 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/WfAU7pB.png" tvg-country="IN" tvg-url="" group-title="Testing", Can delete
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/23f25b25270929.56343659a7a3c.jpg" tvg-name="Al Jazeera English(480p)"  group-title="News",Al Jazeera English(480p)
+http://ott-cdn.ucom.am/s23/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Premium",Al Jazeera English(480p)
 http://ott-cdn.ucom.am/s23/index.m3u8
