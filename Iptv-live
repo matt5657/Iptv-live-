@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTINF:0,Al Jazeera English (480p)
-tvg-logo="https://imgur.com/XkKWMAB.png"http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:0 tvg-logo="https://imgur.com/XkKWMAB.png",Al Jazeera English (480p)
+http://ott-cdn.ucom.am/s23/index.m3u8
 #EXTINF:0,Al Jazeera English (1080p)
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:0,Australia Channel (720p)
@@ -65,10 +65,7 @@ http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:0,World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:0,https://autopilot.catcast.tv/content/39161/index.m3u8
-#EXTINF:0,https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:0,https://autopilot.catcast.tv/content/38801/index.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" tvg-country="IN" tvg-url="" group-title="Entertainment",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
