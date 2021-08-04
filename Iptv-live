@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTINF:1,Al Jazeera English (480p) 
-tvg-logo="https://imgur.com/XkKWMAB.png" http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:0,Al Jazeera English (480p) 
+http://ott-cdn.ucom.am/s23/index.m3u8 tvg-logo="https://imgur.com/XkKWMAB.png"
 #EXTINF:0,Al Jazeera English (1080p)
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:0,Australia Channel (720p)
