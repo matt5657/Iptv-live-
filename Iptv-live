@@ -313,3 +313,19 @@ http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 http://223.82.250.72/live/jinyingkaton/1.m3u8
 #EXTINF:-1,金鹰卡通
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="MY" tvg-url="" group-title="Malaysia", Astro Awani (540p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="MY" tvg-url="" group-title="Malaysia", RTM Parlimen (Dewan Rakyat) (1080p)
+https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="MY" tvg-url="" group-title="Malaysia",TV Ikim (360p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="MY" tvg-url="" group-title="Malaysia",TV Ikim (480p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="MY" tvg-url="" group-title="Malaysia",TV Ikim (1080p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
