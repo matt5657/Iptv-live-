@@ -279,3 +279,39 @@ http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-hd-live.jpg" tvg-country="TW" tvg-url="" group-title="Entertainment",緯來精采台
 https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
+
+#EXTM3U
+#EXTINF:-1,3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1,Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1,CCTV中国中央电视台-14 少儿
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1,ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1,GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1,Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:-1,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,Taha TV
+https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
+#EXTINF:-1,TCT Kids
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+#EXTINF:-1,WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,WZra Kids TV
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:-1,优漫卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1,炫动卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1,福州少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1,金鹰卡通
+http://223.82.250.72/live/jinyingkaton/1.m3u8
+#EXTINF:-1,金鹰卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
