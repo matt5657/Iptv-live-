@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Martial art"  group-title="Muaythai",Martial art
-plugin://plugin.video.youtube/play/?video_id=ogNJaTth65A
+https://youtu.be/ogNJaTth65A
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/23f25b25270929.56343659a7a3c.jpg" tvg-name="Al Jazeera English(480p)"  group-title="News",Al Jazeera English(480p)
